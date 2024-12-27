@@ -76,6 +76,7 @@ Poetry's [commands](https://python-poetry.org/docs/cli/#commands) are very intui
 - `poetry publish --build`
 
 etc
+
 </p>
 </details>
 
@@ -150,8 +151,6 @@ or install with `Poetry`
 poetry add marbles
 ```
 
-
-
 ### Makefile usage
 
 [`Makefile`](https://github.com/marbles/marbles/blob/master/Makefile) contains a lot of functions for faster development.
@@ -185,7 +184,7 @@ Install requirements:
 make install
 ```
 
-Pre-commit hooks coulb be installed after `git init` via
+Pre-commit hooks could be installed after `git init` via
 
 ```bash
 make pre-commit-install
