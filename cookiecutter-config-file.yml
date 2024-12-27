@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "marbles"
+  project_description: "`Marbles` is a python packages that uses the Twilio API to send myself important reminder which won't quit upon dismissal like an old boring reminder"
+  organization: "marbles"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "marbles"
+  email: "oceanestars13@gmail.com"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "none"
